@@ -1,6 +1,3 @@
-# Lab9_3 Baghli Yacine
-
-
 import numpy as np
 import pandas as pd
 import datetime
